@@ -5,10 +5,19 @@ A machine learning-based system that detects and classifies Diabetic Retinopathy
 Diabetic Retinopathy is a serious complication of diabetes that affects the retina's blood vessels. This project leverages advanced deep learning algorithms to detect its presence and severity from retinal images. By employing VGG16 and CNN models, the system ensures accurate detection and grading, enabling timely treatment.
 
 ## Features
-- Automated Detection: Uses pre-trained VGG16 and CNN models for precise image analysis.
-- Prediction and Classification: Accurately identifies and categorizes disease severity.
-- Interactive Front-End: A user-friendly React-based website for easy access to predictions.
-- Model Integration: A Flask API integrates the deep learning model with the front end.
+-**Automated Detection:** Uses pre-trained VGG16 and CNN models for precise image analysis.
+- **Prediction and Classification:** Accurately identifies and categorizes disease severity.
+- **Image Upload:** Allows users to upload retinal images for analysis.
+- **User Authentication:** Secure login and registration for personalized access.
+- **Model Integration:** A Flask API integrates the deep learning model with the front end.
+
+
+## Usage
+
+1. **Register an Account:** Navigate to the registration page and create a new account.
+2. **Log In:** Use your credentials to log in.
+3. **Upload an Image:** Go to the upload section and submit a retinal image.
+4. **View Results:** The system will analyze the image and display the results.
 
 ## Requirements
 ### Hardware:
@@ -57,10 +66,10 @@ Note: These metrics can be customized based on your actual performance evaluatio
 Significantly reduces the time required for manual diagnosis.
 Provides a cost-effective solution for rural and underserved regions.
 
-## Articles published / References
-1. J. Amin, M. Sharif and M. Yasmin, "A review on recent developments for detection of diabetic retinopathy", Scientifica, vol. 2016, pp. 1-20, Sep. 2016. 
-2. A. T. Kharroubi and H. M. Darwish, "Diabetes mellitus: The epidemic of the century", World J. Diabetes, vol. 6, no. 6, pp. 850-867, Jun. 2015. 
+## Acknowledgments
 
+- Inspired by medical advancements in diabetic retinopathy detection.
+- Built with Flask, TensorFlow, and other powerful libraries.
 
 
 
