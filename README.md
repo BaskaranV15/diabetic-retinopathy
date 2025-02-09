@@ -5,7 +5,7 @@ A machine learning-based system that detects and classifies Diabetic Retinopathy
 Diabetic Retinopathy is a serious complication of diabetes that affects the retina's blood vessels. This project leverages advanced deep learning algorithms to detect its presence and severity from retinal images. By employing VGG16 and CNN models, the system ensures accurate detection and grading, enabling timely treatment.
 
 ## Features
--**Automated Detection:** Uses pre-trained VGG16 and CNN models for precise image analysis.
+- **Automated Detection:** Uses pre-trained VGG16 and CNN models for precise image analysis.
 - **Prediction and Classification:** Accurately identifies and categorizes disease severity.
 - **Image Upload:** Allows users to upload retinal images for analysis.
 - **User Authentication:** Secure login and registration for personalized access.
